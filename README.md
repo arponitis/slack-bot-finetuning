@@ -1,4 +1,4 @@
-# Fine-tuning TinyLlama on Custom Chat Data
+# Fine-tuning TinyLlama on Custom Chat Data (WIP)
 
 This project demonstrates fine-tuning the TinyLlama-1.1B-Chat-v1.0 model on a custom dataset of chat conversations using the Hugging Face Transformers and PEFT libraries in Google Colab. The goal is to adapt the model to the style and content of a specific chat environment, enabling it to generate responses that are more aligned with the communication patterns of that group.
 
